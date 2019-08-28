@@ -44,7 +44,7 @@ img{
 }
 
 .container{
-    width: 40%;
+    width: 60%;
     margin-top: 40px;
     background-color: white;
     border: solid;
@@ -57,25 +57,4 @@ img{
     height: auto;
     float: left;
     padding-right: 20px;
-}
-
-
-
-
-@media (max-width: 992px) {
-.container{
-    width:60%;
-}
-}
-@media (min-width: 576px) {
-
-}
-
-
-@media (min-width: 768px) {
-
-}
-
-
-@media (min-width: 992px) {
 }
